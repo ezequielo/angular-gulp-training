@@ -1,0 +1,27 @@
+{
+  "name": "bower.json",
+  "version": "0.0.0",
+  "authors": [
+    "ezequielo <ezequielra1@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "bootstrap": "~3.3.5",
+    "angular-route": "~1.4.6",
+    "angular-resource": "~1.4.6",
+    "font-awesome": "fontawesome#~4.4.0"
+  }
+}
